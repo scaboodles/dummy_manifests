@@ -1,0 +1,5 @@
+ecoadd "Bitcoin 3"
+ecocon Bitcoin "Bitcoin 3"
+repadd "Bitcoin 2" https://github.com/0xashu/Whale
+repadd Bitcoin https://github.com/scaboodles/trashPlanet
+repadd "Bitcoin 3" https://github.com/0xashu/Whale
